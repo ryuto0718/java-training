@@ -1,0 +1,1 @@
+環境変数CLASSPATHにはc:\javaapp\koumonが設定されている。
