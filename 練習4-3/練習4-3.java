@@ -1,0 +1,2 @@
+５行目は、NullPointerException
+６行目は、ArraylndexOutOfBoundsException
